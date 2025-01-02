@@ -1,4 +1,10 @@
 # repo
 
-
-https://raw.githubusercontent.com/DominikOcsofszki/repo/refs/heads/main/<name>
+# Install
+```sh
+sh install_extension.sh
+```
+# Uninstall
+```sh
+sh uninstall_extension.sh
+```
